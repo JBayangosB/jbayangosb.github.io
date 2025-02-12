@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Jayden Bayangos-Brandt</title><link>https://jbayangosb.github.io/posts/</link><description>Recent content in Posts on Jayden Bayangos-Brandt</description><generator>Hugo</generator><language>en</language><lastBuildDate>Wed, 18 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://jbayangosb.github.io/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Train Flux Lora</title><link>https://jbayangosb.github.io/posts/train-flux-lora/</link><pubDate>Wed, 18 Sep 2024 00:00:00 +0000</pubDate><guid>https://jbayangosb.github.io/posts/train-flux-lora/</guid><description>&lt;h1 id="how-to-train-a-flux-lora-to-make-pictures-of-you">
+ How to train a Flux LORA to make pictures of you!
+ &lt;a class="heading-link" href="#how-to-train-a-flux-lora-to-make-pictures-of-you">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h1>
+&lt;p>I had a lot of difficulty trying to figure out how to train a LORA for flux on my system.&lt;/p>
+&lt;p>(4070 with 12GB VRAM)&lt;/p>
+&lt;p>So after a bunch of trial and error I compiled this mini tutorial with as much guidance as I needed.&lt;/p>
+&lt;p>Hopefully this can help someone else out in the future!&lt;/p></description></item></channel></rss>
